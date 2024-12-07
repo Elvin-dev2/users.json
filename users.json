@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "username": "user1",
+            "password": "pass1",
+            "role": "user"
+        },
+        {
+            "username": "admin1",
+            "password": "adminpass",
+            "role": "admin"
+        }, 
+
+        {
+            "username": "adm",
+            "password": "addm",
+            "role": "admin"
+        }, 
+        
+        {
+            "username": "tynzy",
+            "password": "1",
+            "role": "user"
+        }, 
+        
+        {
+            "username": "dika",
+            "password": "1",
+            "role": "user"
+        }, 
+        
+        {
+            "username": "rayhan",
+            "password": "1",
+            "role": "user"
+        }, 
+        
+        {
+            "username": "lil",
+            "password": "1",
+            "role": "user"
+        }
+    ]
+}
